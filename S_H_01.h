@@ -1,7 +1,6 @@
 #pragma once
 
-#include <iostream>
-#include <math.h>
+
 
 int sum(int, int);
 double dev(int, int);

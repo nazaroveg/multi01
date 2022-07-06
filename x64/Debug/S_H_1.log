@@ -1,3 +1,6 @@
 ﻿  S_H_01.cpp
-C:\Users\newya\source\repos\S_H_1\S_H_01.cpp(24,13): warning C4244: return: преобразование "double" в "int", возможна потеря данных
-  S_H_1.vcxproj -> C:\Users\newya\source\repos\S_H_1\x64\Debug\S_H_1.exe
+C:\Users\newya\source\repos\multi01\S_H_01.cpp(26,13): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  S_H_1.cpp
+  Создание кода...
+  LINK : не найден или не выполнена сборка C:\Users\newya\source\repos\multi01\x64\Debug\S_H_1.exe при последней инкрементной компоновке; выполняется полная компоновка
+  S_H_1.vcxproj -> C:\Users\newya\source\repos\multi01\x64\Debug\S_H_1.exe

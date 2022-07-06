@@ -1,4 +1,6 @@
 #include "S_H_01.h"
+#include <iostream>
+#include <math.h>
 
 int sum(int x, int y)
 {

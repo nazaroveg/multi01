@@ -1,6 +1,8 @@
 ﻿// S_H_1.cpp :
 //
 #include "S_H_01.h"
+#include <iostream>
+#include <math.h>
 
 int main()
 {
